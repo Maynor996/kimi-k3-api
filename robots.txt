@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maynor996.github.io/kimi-k3-api/sitemap.xml
