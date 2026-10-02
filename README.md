@@ -1,3 +1,5 @@
+> 本文已迁移：[Kimi K3 API 国内中转调用指南：价格、教程与代码（2026）](https://docs.tryallapi.com/kimi-k3-api/)
+
 # Kimi K3 API 国内中转调用指南（2026年最新）
 
 > 作者：MaynorAI｜首发：2026-10-02｜最后更新：2026-10-02
